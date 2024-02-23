@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+*.sqlite3
+*.db
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+
+# Secret keys
+*.secret
+
+# IDE specific files
+.vscode/
+*.idea/
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+
+# macOS folder attributes
+.DS_Store
