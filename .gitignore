@@ -24,7 +24,7 @@ staticfiles/
 .env
 
 # Virtual Environment
-venv/
+.venv/
 
 # Compiled Python files
 *.pyc
